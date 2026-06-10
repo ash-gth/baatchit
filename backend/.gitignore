@@ -7,6 +7,6 @@ node_modules
 dist/
 build/
 
-
+# OS Files
 .DS_Store
 Thumbs.db
